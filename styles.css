@@ -1,0 +1,20 @@
+.heading {
+  margin-top: 40px;
+  font-weight: 900;
+}
+span {
+  font-weight: 900;
+}
+.audio-list {
+  display: flex;
+  /* justify-content: space-between; */
+}
+.audio-element {
+  margin-right: 10px;
+}
+h3 {
+  margin-top: 40px;
+}
+.footer {
+  margin-top: 40px;
+}
